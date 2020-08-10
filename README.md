@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Rashik 
-## Robotics enthusiast
+## Hi there 👋 I'm Rashik 
+### Robotics enthusiast
 
 - 🔭 I’m currently working on Visual SLAM
 - 🌱 I’m currently learning Probabistic Robotics, Computer Vision
