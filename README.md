@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Rashik 
-### Robotics enthusiast
+### Robotics and Computer Vision enthusiast
 
-- 🔭 I’m currently working on Visual SLAM
-- 🌱 I’m currently learning Probabistic Robotics, Computer Vision
-- 🤔 I’m looking for help with OpenVSLAM
+- 🔭 I’m currently working on pose estimation with NeRFs
+- 🌱 I’m currently learning Probabilistic Robotics and Multi-View Geometry
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rashikshrestha&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
