@@ -1,22 +1,15 @@
 ## Hi there 👋 I'm Rashik 
-### Robotics and Computer Vision enthusiast
+### My research interest lies in the intersection of Robotics and Spatial Intelligence
 
-- 🔭 I’m currently working on pose estimation with NeRFs
-- 🌱 I’m currently learning Probabilistic Robotics and Multi-View Geometry
+- 🔭 I’m currently working on Diffusion Policies for Robot Action generation.
+- 🌱 I’m currently learning Generative Models for Robotics Applications, Lie Algebra.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rashikshrestha&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
+### Connect me with:
+Homepage: https://rashik.info.np/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashikshrestha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+Linkedin: https://www.linkedin.com/in/rashikshrestha/
 
-
-### Connect me with
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gmail" width="22px" src="https://simpleicon.com/wp-content/uploads/mail-5.png" />][gmail]
-
-
-<!-- variable for website -->
-[linkedin]:https://www.linkedin.com/in/rashikshrestha/
-[gmail]: rashikshrestha01@gmail.com
+Email: rashikshrestha01@gmail.com
 
 
 <!--
